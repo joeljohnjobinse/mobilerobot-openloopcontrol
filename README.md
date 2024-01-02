@@ -129,7 +129,7 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 
-!(https://youtu.be/dmMFeZLrbQk?si=sMExSaGjsemkW66h)
+https://youtu.be/dmMFeZLrbQk?si=sMExSaGjsemkW66h
 
 <br/>
 <br/>
